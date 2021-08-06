@@ -1,0 +1,9 @@
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\usrTarde\Desktop\fede\3capas\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
